@@ -1,8 +1,3 @@
----
-title: Home
-layout: home
----
-
 # title 1
 some intro dext
 
