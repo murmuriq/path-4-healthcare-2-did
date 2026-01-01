@@ -8,5 +8,5 @@ url: https://murmuriq.github.io/path-4-healthcare-2-did
 
 #Build settings:
 theme: just-the-docs
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+  #Template Repository: https://github.com/just-the-docs/just-the-docs-template
